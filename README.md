@@ -1,3 +1,4 @@
+## Intro
 - 👋 Hi, I’m Gideon Kruseman (Kruseman Foresight and Metrics Consultancy) @Gideon-Kr
 - 👀 I’m interested in foresight, ex-ante impact assessmnent, data interoperability and the tools to make that work.
 - 💞️ I’m looking to collaborate on these issues. Note that I am self-employed and open to consultancy gigs related to my coding work.
