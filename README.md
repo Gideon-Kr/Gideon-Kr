@@ -4,9 +4,9 @@
 - 📫 How to reach me: info@gkruseman.nl
 
 ##What am I working on right now?
-- ✨ I am updating abio-economic household model that can be used to for ex-ante impact assessment of socio-technical innoivation bundles for the transformation of agri-food systems in low and lower-middle income countries.\
-- ✨ I am experimenting with AI tools to create a virtual artificially intelligent foresight research assistant
-- ✨ I continue to work on the OIMS (Open Ontology-based Interoperable Information asset Metadata Schema) toolbox
+- ✨ I am updating a bio-economic household model that can be used to for ex-ante impact assessment of socio-technical innovation bundles for the transformation of agri-food systems in low and lower-middle income countries.
+- ✨ I am experimenting with AI tools to create a virtual artificially intelligent foresight research assistant.
+- ✨ I continue to work on the OIMS (Open Ontology-based Interoperable Information asset Metadata Schema) toolbox.
 
 Some code will be available through this GitHub repository soon.
 <!---
